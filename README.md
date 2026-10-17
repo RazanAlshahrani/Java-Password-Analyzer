@@ -27,5 +27,8 @@ The project is developed in Java using NetBeans and consists of four main compon
 - Secure Random Password Generation
 - Input Validation and Security Awareness
 
+## Project Report
+[View Project Report](https://github.com/RazanAlshahrani/Java-Password-Analyzer/blob/main/Password_Analyzer.pdf)
+
 ## Project Type
 University Group Project | Java Programming | Cybersecurity
